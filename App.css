@@ -1,0 +1,59 @@
+body{
+  background-color:black;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: aqua;
+  border-radius: 5px;
+  padding-bottom: 20px;
+}
+.form{
+  padding-bottom: 20px;
+}
+.firstname{
+  padding-bottom: 10px;
+cursor: pointer;
+
+}
+.email{
+  padding-bottom: 10px;
+  cursor: pointer;
+
+}
+.gender{
+  padding-bottom: 10px;
+  cursor: pointer;
+
+}
+.dob{
+  padding-bottom: 10px;
+  cursor: pointer;
+
+}
+.country{
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+.skills{
+  padding-bottom: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.country{
+  padding-bottom: 10px;
+  cursor: pointer;
+
+}
+.danger{
+  color: red;
+
+}
+
+
